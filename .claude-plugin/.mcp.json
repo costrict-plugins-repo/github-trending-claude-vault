@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "claude-vault": {
+      "command": "go",
+      "args": ["run", "github.com/hazyhaar/claude-vault/cmd/claude-vault@latest", "mcp"],
+      "env": {}
+    }
+  }
+}

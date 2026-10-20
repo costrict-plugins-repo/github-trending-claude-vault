@@ -1,0 +1,4 @@
+bin/
+claude-vault
+*.db
+*.jsonl
